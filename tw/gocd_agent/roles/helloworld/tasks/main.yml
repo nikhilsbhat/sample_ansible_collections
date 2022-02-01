@@ -1,0 +1,5 @@
+---
+
+- name: Print message from collection
+  ansible.builtin.debug:
+    msg: hello from collections
